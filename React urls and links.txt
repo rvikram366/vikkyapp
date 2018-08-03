@@ -1,0 +1,61 @@
+
+
+
+React- Basics
+https://devhints.io/react
+
+https://egghead.io/courses/the-beginner-s-guide-to-react
+https://egghead.io/courses/start-learning-react
+https://www.codecademy.com/learn/react-101
+
+react-redux
+https://medium.com/@rajaraodv/step-by-step-guide-to-building-react-redux-apps-using-mocks-48ca0f47f9a
+
+
+
+
+React:
+
+https://tylermcginnis.com/reactjs-tutorial-a-comprehensive-guide-to-building-apps-with-react/
+
+https://egghead.io/lessons/react-introduction-to-the-beginner-s-guide-to-reactjs
+
+https://devhints.io/react
+
+https://www.codecademy.com/learn
+
+Javascript:
+
+http://jsforcats.com/
+
+https://www.freecodecamp.org/
+
+
+ACM:
+https://learning.acm.org/
+
+CSS PLAN:
+
+Topics				Self study (hours)
+Css Selectors			4
+
+Cascading and 
+Inheritance in CSS 		4
+
+CSS and the Box Model 	8
+Styling Text with 
+
+CSS,Tables				6
+
+Layout with CSS 
+[floating,positioning]	8
+
+CSS3 Fonts				4
+
+CSS3 Styles				4
+
+CSS3 Animations			8
+
+Transform				6
+
+Transition				4
